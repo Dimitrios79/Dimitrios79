@@ -96,7 +96,7 @@ A full adversarial testing suite for LLMs & RAG systems:
 
 ## 📫 Connect with Me
 
-🔗 LinkedIn: *add your link here*  
+🔗 LinkedIn: https://www.linkedin.com/in/dimitrioskallimanis/
 🔗 GitHub: https://github.com/Dimitrios79  
 
 ---
