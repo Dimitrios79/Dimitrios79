@@ -1,106 +1,98 @@
+<div align="center">
 
-<p align="center">
-  <img src="profile.png" width="100%" alt="Dimitrios Kallimanis – AI Security & Cybersecurity Banner">
-</p>
+# Dimitrios Kallimanis
 
-<h1 align="center">👋 Hi, I'm Dimitrios</h1>
+**AI Security Researcher · Cybersecurity Engineer · LLM Red Teaming**
 
-<p align="center">
-  <b>AI Security Researcher · Cybersecurity Engineer · LLM Red Teaming</b><br>
-  Offensive & defensive security for enterprise systems and AI models.
-</p>
+*Offensive & defensive security for enterprise systems and AI models*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrioskallimanis/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dimitrios79)
 
-## 🛡️ About Me
-
-I am a **Cybersecurity Engineer with 8+ years of experience** in:
-
-- 🔐 **Identity & Access Management (IAM)** — SailPoint, CyberArk, One Identity, Azure AD  
-- 🛡 **Network Security** — WAF, DDoS (Akamai), firewall policies, VPNs  
-- 🕵️ **Threat Analysis & Incident Response** — malware, social engineering, fraud patterns  
-- 🧱 **AppSec & DevSecOps** — Snyk, Fortify, secure SDLC  
-- ⚙ **Automation & Scripting** — Python, Bash  
-- 📡 **IoT/SCADA Security** — smart meters, industrial sensors  
-
-Recently, I expanded into **AI Security and LLM Red Teaming**, building hands-on research projects that evaluate the real-world attack surface of modern AI systems.
-
-My goal: **secure both classical enterprise environments and next-generation AI models.**
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 About Me
 
-### 🔥 AI Red Teaming Security Lab
-A full adversarial testing suite for LLMs & RAG systems:
+Cybersecurity Engineer with **8+ years** of experience securing enterprise environments — and now on the frontier of **AI Security** and **LLM Red Teaming**.
 
-- ✔ Garak vulnerability scanning  
-- ✔ Prompt injection & hijacking  
-- ✔ RAG poisoning (malicious document takeover)  
-- ✔ AI attack success metrics  
-- ✔ Defense prototypes  
-
-👉 Repo: https://github.com/Dimitrios79/ai-redteaming-security-lab
+> *"Offense informs defense — securing enterprise systems and AI models."*
 
 ---
 
-## 🧠 Work Experience (Highlights)
+## 🔥 Featured Project
 
-### 🛡 Security Network Engineer — **Akamai Technologies** (2025–Today)
-- WAF, DDoS, L1/L2 security support  
-- Threat monitoring, incident handling  
-- Process automation & documentation
+### [`ai-redteaming-security-lab`](https://github.com/Dimitrios79/ai-redteaming-security-lab)
 
-### 🔐 IoT Cybersecurity Consultant — **Lutech Group**
-- IAM architecture for IoT platforms  
-- Smart meter security, automated provisioning policies
-
-### 🛡 Cybersecurity Technical Manager — **14bydesign**
-- CIS-based hardening  
-- Enterprise security policies  
-- IR readiness for major clients (Microsoft, Austria Card, Space Hellas)
-
-### 🧪 Risk Advisory Consultant — **Deloitte**
-- IAM consulting (public + private sectors)  
-- AppSec testing with Snyk, Fortify
-
-### 🔍 Threat Analyst — **Teleperformance (Netflix/Wish)**
-- Fraud patterns, social engineering, anomaly investigation  
+| Module | Description |
+|---|---|
+| 🔍 Vulnerability Scanning | Garak-based automated LLM probing |
+| 💉 Prompt Injection | Hijacking & context manipulation attacks |
+| ☠️ RAG Poisoning | Malicious document takeover in retrieval pipelines |
+| 📊 Attack Metrics | Success rate tracking & analysis |
+| 🛡️ Defense Prototypes | Guardrails and mitigation strategies |
 
 ---
 
-## 🧰 Tech Stack
+## 🛡️ Core Expertise
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Akamai-0099FF?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CyberArk-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SailPoint-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HuggingFace-black?style=for-the-badge&logo=huggingface&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Fortify-darkgreen?style=for-the-badge"/>
-</p>
+| Domain | Tools |
+|--------|-------|
+| Identity & Access Management | SailPoint, CyberArk, One Identity, Azure AD |
+| Network Security | WAF, DDoS, Akamai, Firewall Policies |
+| AI / LLM Red Teaming | Prompt Injection, RAG Attacks, Garak |
+| Threat Analysis & IR | Malware, Social Engineering, Fraud |
+| AppSec & DevSecOps | Snyk, Fortify, Secure SDLC |
+| IoT / SCADA Security | Smart Meters, Industrial Sensors |
+| Automation & Scripting | Python, Bash |
+
+---
+
+## 💼 Experience
+
+**🛡️ Security Network Engineer** — *Akamai Technologies* `2025 – Present`
+WAF, DDoS mitigation · Threat monitoring & incident handling · Process automation
+
+**🔐 IoT Cybersecurity Consultant** — *Lutech Group*
+IAM for IoT platforms · Smart meter security · Automated provisioning policies
+
+**🛡️ Cybersecurity Technical Manager** — *14bydesign*
+CIS-based hardening · Enterprise security policies · IR readiness
+*(Microsoft, Austria Card, Space Hellas)*
+
+**🧪 Risk Advisory Consultant** — *Deloitte*
+IAM consulting (public + private sectors) · AppSec with Snyk & Fortify
+
+**🔍 Threat Analyst** — *Teleperformance (Netflix / Wish)*
+Fraud pattern detection · Social engineering analysis · Anomaly investigation
 
 ---
 
 ## 🎓 Certifications
 
-- CompTIA Security+  
-- Certified Ethical Hacker (CEH)  
-- CCNA  
-- SailPoint / CyberArk / One Identity Certified  
-- ML Coursework  
+- ✅ CompTIA Security+
+- ✅ Certified Ethical Hacker (CEH)
+- ✅ CCNA
+- ✅ SailPoint / CyberArk / One Identity Certified
+- 📚 ML Coursework — ongoing
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
 
-🔗 LinkedIn: https://www.linkedin.com/in/dimitrioskallimanis/
-🔗 GitHub: https://github.com/Dimitrios79  
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimitrios79&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>“Offense informs defense — Securing enterprise systems and AI models.”</i>
-</p>
+<div align="center">
+
+**Currently active on:** [`thruscan-ai`](https://github.com/Dimitrios79/thruscan-ai) 🔬
+
+*Open to collaboration on AI security research, LLM red teaming, and enterprise IAM projects.*
+
+</div>
