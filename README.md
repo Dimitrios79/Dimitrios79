@@ -50,8 +50,10 @@ Cybersecurity Engineer with **8+ years** of experience securing enterprise envir
 ---
 
 ## 💼 Experience
+**🎮 Trust & Safety Analyst** — *Telus Digital / Riot Games* `2026 – Present`
+Account security · Trust & Safety · Player integrity
 
-**🛡️ Security Network Engineer** — *Akamai Technologies* `2025 – Present`
+**🛡️ Security Network Engineer** — *Akamai Technologies* `2025 – 2026`
 WAF, DDoS mitigation · Threat monitoring & incident handling · Process automation
 
 **🔐 IoT Cybersecurity Consultant** — *Lutech Group*
