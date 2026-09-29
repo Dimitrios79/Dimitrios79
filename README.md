@@ -2,7 +2,7 @@
 
 # Dimitrios Kallimanis
 
-**AI Security Researcher · Cybersecurity Engineer · LLM Red Teaming**
+ ****IT Specialist **AI Security Researcher · Cybersecurity Engineer · LLM Red Teaming**
 
 *Offensive & defensive security for enterprise systems and AI models*
 
